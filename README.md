@@ -1,5 +1,7 @@
 # get-image-colors
 
+> This is a fork that allows passing in a Buffer object. SVG is not supported.
+
 Extract colors from images. Supports GIF, JPG, PNG, and even SVG!
 
 ![example color palette](https://cldup.com/-uw9Ub6L6s.png)
